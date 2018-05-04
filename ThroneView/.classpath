@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="con" path="/org.eclipse.jdt.launching.JRE_CONTAINER/oracle.eclipse.tools.maf.JVMType-V233/Java-SE8-CP2"/>
-	<classpathentry kind="con" path="oracle.eclipse.tools.maf.application.classpath"/>
-	<classpathentry kind="con" path="oracle.eclipse.tools.maf.libraries/oracle.eclipse.tools.maf.project.classpath.v233"/>
-	<classpathentry kind="output" path="build/classes"/>
-</classpath>
