@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<adfmf:features xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adfmf="http://xmlns.oracle.com/adf/mf">
-
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<adfmf:features xmlns:adfmf="http://xmlns.oracle.com/adf/mf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <adfmf:feature id="Nearby" name="Nearby">
+      <adfmf:content id="Nearby.1">
+         <adfmf:amx file="NearbyPage1.amx"/>
+      </adfmf:content>
+   </adfmf:feature>
+   <adfmf:feature id="Favs" name="Favs">
+      <adfmf:content id="Favs.1">
+         <adfmf:amx file="FavsPage1.amx"/>
+      </adfmf:content>
+   </adfmf:feature>
+   <adfmf:feature id="Profile" name="Profile">
+      <adfmf:content id="Profile.1">
+         <adfmf:amx file="ProfilePage1.amx"/>
+      </adfmf:content>
+   </adfmf:feature>
+   <adfmf:feature id="Explore" name="Explore">
+      <adfmf:content id="Explore.1">
+         <adfmf:amx file="explore-task-flow.xml#explore-task-flow"/>
+      </adfmf:content>
+   </adfmf:feature>
 </adfmf:features>

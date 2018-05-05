@@ -1,0 +1,4 @@
+Throne Development Notes
+- Should we call the "Nearby" feature "Find" instead, since it takes you to that place where you can add restrooms?
+- Will the "Explore" interface just be a search bar where you can enter a zipcode or address and find close by
+restrooms, taking you to the same menu as the "Nearby" feature?

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adfc-mobile-config xmlns="http://xmlns.oracle.com/adf/controller" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.oracle.com/adf/controller http://xmlns.oracle.com/adf/controller/adfc-mobile-config.xsd">
+    <task-flow-definition id="explore-task-flow">
+        <view id="exploreSearch">
+            <page>/exploreSearch.amx</page>
+        </view>
+    </task-flow-definition>
+</adfc-mobile-config>
+<!-- This task flow is meant to handle the user going in and exploring for bathrooms close to them
+		The first page will just be a search bar, then it will take them to the layout that shows the bathrooms close to their search
+		in a list format, which will then allow them to see the various bathrooms in that place-->

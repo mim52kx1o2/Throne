@@ -1,3 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<adfmf:application xmlns:adfmf="http://xmlns.oracle.com/adf/mf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" appControllerFolder="ThroneApplication" id="maf.throne.Throne" listener-class="maf.throne.throneapplication.LifeCycleListenerImpl" name="Throne" version="1.0">
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<adfmf:application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:adfmf="http://xmlns.oracle.com/adf/mf" version="1.0" name="Throne" listener-class="maf.throne.throneapplication.LifeCycleListenerImpl" id="maf.throne.Throne" appControllerFolder="ThroneApplication">
+   <adfmf:featureReference refId="Nearby"/>
+   <adfmf:featureReference refId="Favs"/>
+   <adfmf:featureReference refId="Profile"/>
+   <adfmf:featureReference refId="Explore"/>
 </adfmf:application>
