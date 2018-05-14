@@ -20,4 +20,9 @@
          <adfmf:amx file="explore-task-flow.xml#explore-task-flow"/>
       </adfmf:content>
    </adfmf:feature>
+   <adfmf:feature id="TestFeature" name="TestFeature">
+      <adfmf:content id="TestFeature.1">
+         <adfmf:localHTML url="exploreTest.html"/>
+      </adfmf:content>
+   </adfmf:feature>
 </adfmf:features>

@@ -1,0 +1,13 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<adfmf:features xmlns:adfmf="http://xmlns.oracle.com/adf/mf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <adfmf:feature id="Explore" name="Explore">
+      <adfmf:content id="Explore.1">
+         <adfmf:amx file="explore-task-flow-test.xml#explore-task-flow-test"/>
+      </adfmf:content>
+   </adfmf:feature>
+   <adfmf:feature id="HTML" name="HTML">
+      <adfmf:content id="HTML.1">
+         <adfmf:localHTML url="exploreTest.html"/>
+      </adfmf:content>
+   </adfmf:feature>
+</adfmf:features>

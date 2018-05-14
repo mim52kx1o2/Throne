@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adfc-mobile-config xmlns="http://xmlns.oracle.com/adf/controller" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xmlns.oracle.com/adf/controller http://xmlns.oracle.com/adf/controller/adfc-mobile-config.xsd">
     <task-flow-definition id="explore-task-flow">
+        <default-activity>exploreSearch</default-activity>
         <view id="exploreSearch">
             <page>/exploreSearch.amx</page>
         </view>

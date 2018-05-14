@@ -12,5 +12,9 @@
 		<amx:facet name="secondary">
 			<amx:commandButton id="cb2" />
 		</amx:facet>
+		<!-- Search bar -->
+		<amx:inputText hintText="Search..." id="txtSearch"></amx:inputText>
+		<!-- Search results area, will bind this data with searchResults servlet -->
+		<amx:listView id="searchResults"></amx:listView>
 	</amx:panelPage>
 </amx:view>

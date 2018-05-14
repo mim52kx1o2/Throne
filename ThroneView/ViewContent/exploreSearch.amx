@@ -6,12 +6,16 @@
 		<amx:facet name="header">
 			<amx:outputText value="Explore" id="ot1" />
 		</amx:facet>
-		<input name="txtSearch"></input>
 		<amx:facet name="primary">
 			<amx:commandButton id="cb1" />
 		</amx:facet>
 		<amx:facet name="secondary">
 			<amx:commandButton id="cb2" />
+			
+			<!-- Why can't I get HTML elements to show up? -->
+					<input name="txtSearch"></input>
+		<input size="40px" maxlength="40px" name="testButton" type="submit"
+			value="test"></input>
 		</amx:facet>
 	</amx:panelPage>
 </amx:view>

@@ -10,9 +10,9 @@
 </target>
 
 <target name="configure-override-projects">
-               <property name="oepe.adfmf.assembly.project.dir.0" value="C:/Users/steel/eclipse-workspace/Throne" />
-           <property name="oepe.adfmf.assembly.project.dir.1" value="C:/Users/steel/eclipse-workspace/ThroneApplication" />
-           <property name="oepe.adfmf.assembly.project.dir.2" value="C:/Users/steel/eclipse-workspace/ThroneView" />
+               <property name="oepe.adfmf.assembly.project.dir.0" value="C:/Users/steel/Desktop/i89n7j2b0t/Throne" />
+           <property name="oepe.adfmf.assembly.project.dir.1" value="C:/Users/steel/Desktop/i89n7j2b0t/ThroneApplication" />
+           <property name="oepe.adfmf.assembly.project.dir.2" value="C:/Users/steel/Desktop/i89n7j2b0t/ThroneView" />
         
     <!-- To support user libraries or rest framework libraries in project class path, add property in following format
     <property name="<ConstantValue>.<UserLibName>.0" value="<Absolute path to library file>" />

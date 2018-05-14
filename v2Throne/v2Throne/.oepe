@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ASCII"?>
+<oepe:metadata xmlns:oepe="http://xmlns.oracle.com/oepe/metadata/1.0">
+  <oepe:mobileAssembly runtimeVersion="2.3.3">
+    <oepe:applicationController>
+      <oepe:project>v2ThroneApplication</oepe:project>
+    </oepe:applicationController>
+    <oepe:assemblyUnit id="v2ThroneView">
+      <oepe:project>v2ThroneView</oepe:project>
+    </oepe:assemblyUnit>
+  </oepe:mobileAssembly>
+</oepe:metadata>

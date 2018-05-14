@@ -4,4 +4,5 @@
    <adfmf:featureReference refId="Favs"/>
    <adfmf:featureReference refId="Profile"/>
    <adfmf:featureReference refId="Explore"/>
+   <adfmf:featureReference refId="TestFeature"/>
 </adfmf:application>

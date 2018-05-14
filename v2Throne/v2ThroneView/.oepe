@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="ASCII"?>
+<oepe:metadata xmlns:oepe="http://xmlns.oracle.com/oepe/metadata/1.0">
+  <oepe:mobileProject assemblyProject="v2Throne" defaultPackage="maf.v2throne.v2throneview"/>
+</oepe:metadata>
